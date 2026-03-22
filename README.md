@@ -43,8 +43,6 @@ To dominate the internet… but with pets.
 ## 🛠️ Built With
 
 * Flutter (UI)
-* ASP.NET Core (Backend)
-* Supabase (Database/Auth)
 
 ---
 
